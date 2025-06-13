@@ -32,8 +32,7 @@ Components) templates.
 2. Create a Python virtual environment and install dependencies:
 
     ```bash
-    ln -sf scripts/makefiles/Makefile.uvm Makefile
-    make setup
+    ./script/setup/setup_python_env.sh
     source .venv/bin/activate
     ```
 
