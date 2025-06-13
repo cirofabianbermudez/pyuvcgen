@@ -1,6 +1,6 @@
 [project]
 name = "pyuvcgen"
-version = "1.0.1"
+version = "1.0.2"
 authors = [
     {name = "Ciro Bermudez"}
 ]
