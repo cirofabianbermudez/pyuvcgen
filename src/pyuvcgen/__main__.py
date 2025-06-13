@@ -12,7 +12,8 @@ def main() -> None:
         "-c",
         "--config",
         type=Path,
-        default=script_dir / "yaml/uvc.yaml",
+        required=True,
+        #default=script_dir / "yaml/uvc.yaml",
         help="YAML configuration file",
     )
     parser.add_argument(
