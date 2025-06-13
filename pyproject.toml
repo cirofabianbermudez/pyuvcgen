@@ -21,4 +21,4 @@ build-backend = "setuptools.build_meta"
 pyuvcgen = "pyuvcgen.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/cirofabianbermudez/uvm_template_generator"
+Homepage = "https://github.com/cirofabianbermudez/pyuvcgen"
